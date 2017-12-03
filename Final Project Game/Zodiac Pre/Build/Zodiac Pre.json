@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "Zodiac Pre.data.unityweb",
+"asmCodeUrl": "Zodiac Pre.asm.code.unityweb",
+"asmMemoryUrl": "Zodiac Pre.asm.memory.unityweb",
+"asmFrameworkUrl": "Zodiac Pre.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

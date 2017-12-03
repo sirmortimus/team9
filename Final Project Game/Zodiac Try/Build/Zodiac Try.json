@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 262144000,
+"dataUrl": "Zodiac Try.data.unityweb",
+"asmCodeUrl": "Zodiac Try.asm.code.unityweb",
+"asmMemoryUrl": "Zodiac Try.asm.memory.unityweb",
+"asmFrameworkUrl": "Zodiac Try.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
